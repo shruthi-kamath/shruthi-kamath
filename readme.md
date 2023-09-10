@@ -1,27 +1,16 @@
 <h1 align="center">Shruthi Kamath</h1>
 
-<div align=center>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-  <br><br>
- <p><img src="https://komarev.com/ghpvc/?username=shruthi-kamath" alt="shruthi-kamath" /></p>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shruthi-kamath&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shruthi-kamath&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruthi-kamath&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align=center>Learning Javascript and Web Technologies !</div>
+---
+[![](https://visitcount.itsvg.in/api?id=shruthi-kamath&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shruthi-kamath-69b159258/) 
 
-<br>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">&nbsp;&nbsp;&nbsp;
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
-
-<p align="center">
-  
-<br>
-  
-<a href="https://github.com/shruthi-kamath/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthi-kamath&theme=radical&hide=glsl,python" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shruthi-kamath&show_icons=true&theme=radical&line_height=27" alt="shruthi-kamath's github stats" />
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
