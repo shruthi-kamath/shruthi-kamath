@@ -11,6 +11,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shruthi-kamath&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shruthi-kamath-69b159258/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shruthi-kamath-69b159258) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
